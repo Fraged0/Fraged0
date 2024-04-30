@@ -1,4 +1,5 @@
-hiya im frag :)
+hiya im frag
+
 i love making games and cool weird python projects
 fun fact: i played own game by screaming at mic
 
