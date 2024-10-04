@@ -1,6 +1,6 @@
 hiya im frag
 
-i love making games and cool weird python projects
+i love making games, python, cpp projects
 
 fun fact: i played own game by screaming at mic
 
